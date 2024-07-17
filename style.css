@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans|Mystery+Quest');
+
+body{
+    text-align: center;
+}
+
+
+h1{
+    font-family: 'Courier New', monospace;
+    font-weight: normal;
+    font-size: 48px;
+    margin:50px;
+}
+
+p,a{
+    font-family: 'Times New Roman', serif;
+    font-weight: normal;
+}
+
+h2{
+  font-family: 'Courier New', monospace;
+  font-weight: normal;
+  font-size: 42px;
+}
+
+h3{
+  font-family: 'Courier New', monospace;
+    font-size:30px;
+  font-weight: normal;
+}
+
+a{
+    font-size: 20px;
+}
+
+p{
+  width:400px;
+  margin:auto;
+  margin-top:25px;
+  font-size:20px;
+}
